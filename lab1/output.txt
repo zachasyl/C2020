@@ -1,0 +1,12 @@
+# Simply copy and paste the output from your terminal here!
+CS5006_SU20  CS5006_SU20_sylvanez
+-bash-4.2$ cd CS5006_SU20_sylvanez
+-bash-4.2$ ls
+Assignment1_GuessingGame  Lab1_UnixTerminal
+-bash-4.2$ mkdir empty
+-bash-4.2$ ls
+Assignment1_GuessingGame  empty  Lab1_UnixTerminal
+-bash-4.2$ man rmdir
+-bash-4.2$ rmdir empty
+-bash-4.2$ ls
+Assignment1_GuessingGame  Lab1_UnixTerminal
